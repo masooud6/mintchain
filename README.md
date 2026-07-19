@@ -1,1 +1,2 @@
 # mintchain
+mint
